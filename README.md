@@ -92,5 +92,6 @@ In the project directory, you can run:
 - **React 19**: A JavaScript library for building user interfaces.
 - **TypeScript**: JavaScript with static type definitions.
 - **React Router DOM**: Declarative routing for React.
+- **@tanstack/react-query**: Powerful asynchronous state management for React applications.
 - **Lucide React**: A collection of beautifully simple, open-source icons.
 - **Sonner**: A lightweight notification library for React.
